@@ -143,8 +143,7 @@ C,Activity diagram (mahasiswa)
 
 Activity diagram (laboran)
 
- ![alt text](https://github.com/renld22/UTS-RPL/blob/main/Acitivity%20diagram%20laboran.png
-?raw=true)
+ ![alt text](https://github.com/renld22/UTS-RPL/blob/main/Acitivity%20diagram%20laboran.png?raw=true)
   
 
 
@@ -153,7 +152,7 @@ Activity diagram (laboran)
 
 .State Machine Diagram
 
-
+ ![alt text](https://github.com/renld22/UTS-RPL/blob/main/statet%20machine.png?raw=true)
   
 
 
