@@ -53,8 +53,7 @@ Metode Waterfall menggambarkan proses pengembangan yang berlangsung secara berur
         
 A.Sistem Design 
   
-
-                               Gambar 2. Use Case Diagram Sistem peminjaman alat lab
+![alt text](https://github.com/renld22/InventoriToko-Kotlin-UMB/blob/master/gambar/loginnn1.png?raw=true)
 
 
 
