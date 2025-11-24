@@ -75,6 +75,9 @@ A.Sistem Design
   A.Creational Pattern
      
            Factory Method
+           
+![alt text](https://github.com/renld22/UTS-RPL/blob/main/factory%20method.png?raw=true)
+
   
 
              
@@ -89,9 +92,7 @@ A.Sistem Design
 
 
          Builder
-
-
-  
+![alt text](https://github.com/renld22/UTS-RPL/blob/main/builder.png?raw=true)
 
 
 
@@ -103,6 +104,8 @@ A.Sistem Design
 
      Singleton
   
+![alt text](https://github.com/renld22/UTS-RPL/blob/main/singleton.png?raw=true)
+
 
 
 
