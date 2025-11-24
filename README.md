@@ -53,7 +53,7 @@ Metode Waterfall menggambarkan proses pengembangan yang berlangsung secara berur
         
 A.Sistem Design 
   
-![alt text](https://github.com/renld22/InventoriToko-Kotlin-UMB/blob/master/gambar/loginnn1.png?raw=true)
+![alt text](https://github.com/renld22/UTS-RPL/blob/main/USE%20CASE.png?raw=true)
 
 
 
