@@ -139,11 +139,12 @@ B.squence diagram
 C,Activity diagram (mahasiswa)
 
 
-  
+  ![alt text](https://github.com/renld22/UTS-RPL/blob/main/Activity%20diagram%20mahasiswa.png?raw=true)
 
 Activity diagram (laboran)
 
-
+ ![alt text](https://github.com/renld22/UTS-RPL/blob/main/Acitivity%20diagram%20laboran.png
+?raw=true)
   
 
 
