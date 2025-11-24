@@ -35,7 +35,7 @@ Berdasarkan permasalahan tersebut, diperlukan sebuah sistem yang dapat membantu 
 Metode Penelitian 
 Pendekatan yang digunakan dalam penelitian ini bersifat linear dengan metode Waterfall. Proses pengembangan dilakukan bertahap dan berurutan, sehingga setiap tahap baru dimulai setelah tahap sebelumnya selesai.
   
-  
+  ![alt text](https://github.com/renld22/UTS-RPL/blob/main/waterfall.png?raw=true)
 
                                                             Gambar 1.Metode Waterfall 
 
